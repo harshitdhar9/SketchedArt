@@ -1,4 +1,4 @@
-# 🖼️ SketchedArt
+# -> SketchedArt
 
 > **Recognize hand-drawn sketches** with a lightweight CNN model. Featuring a modern Gradio interface for testing and a FastAPI backend for integration. Built with PyTorch.
 
@@ -6,11 +6,11 @@
 
 ## 📌 Features
 
-- 🧠 CNN-based sketch recognition using PyTorch
-- ⚡ FastAPI REST API for backend use
-- 🎛️ Gradio UI for real-time sketch testing
-- 🐍 Lightweight, CPU-friendly environment
-- 🖥️ Run locally in VS Code with ease
+-  CNN-based sketch recognition using PyTorch
+-  FastAPI REST API for backend use
+-  Gradio UI for real-time sketch testing
+-  Lightweight, CPU-friendly environment
+-  Run locally in VS Code with ease
 
 ---
 
