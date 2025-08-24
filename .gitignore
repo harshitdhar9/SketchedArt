@@ -210,3 +210,5 @@ archive.zip
 data/
 sketches/
 datasets/
+.gradio/
+.gradio
